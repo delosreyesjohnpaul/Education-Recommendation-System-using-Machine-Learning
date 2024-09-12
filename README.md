@@ -1,5 +1,6 @@
+### Overview
 
-This repository contains a machine learning model built to predict and recommend potential career paths for students based on their academic performance, extracurricular activities, and personal attributes. It provides top career recommendations with associated probabilities using a trained classification model. The dataset includes features such as gender, absence days, weekly self-study hours, subject scores, and total/average scores.
+This project contains a machine learning model built to predict and recommend potential career paths for students based on their academic performance, extracurricular activities, and personal attributes. It provides top career recommendations with associated probabilities using a trained classification model. The dataset includes features such as gender, absence days, weekly self-study hours, subject scores, and total/average scores.
 
 ### Key Components
 
