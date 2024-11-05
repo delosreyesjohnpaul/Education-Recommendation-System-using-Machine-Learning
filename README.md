@@ -79,6 +79,5 @@ This project contains a machine learning model built to predict and recommend po
 
 ### Future Enhancements
 
-- Adding more feature variables like socioeconomic background or school ranking.
-- Training the model with a more diverse dataset to improve the prediction accuracy.
-
+- Adding more feature variables like socioeconomic background or school ranking
+- Training the model with a more diverse dataset to improve the prediction accuracy
